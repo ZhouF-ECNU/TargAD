@@ -13,7 +13,7 @@ We conducted extensive experiments, the results of which demonstrate that TargAD
 * The data folder is used to store experimental data.
 
 ## Full paper source:
-Pending update...
+https://ieeexplore.ieee.org/abstract/document/10597675
 
 ## Citation
->Lu G., Zhou F., Pavlovski M., Zhou C., Jin C., “A Robust Prioritized Anomaly Detection when Not All Anomalies are of Primary Interest”, Proc. 40th International Conference on Data Engineering (ICDE), 2024.
+>Lu G., Zhou F., Pavlovski M., Zhou C., Jin C., “A Robust Prioritized Anomaly Detection when Not All Anomalies are of Primary Interest”, Proc. 40th International Conference on Data Engineering (ICDE), 2024, 775-788.
