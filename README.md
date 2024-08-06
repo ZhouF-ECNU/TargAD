@@ -16,7 +16,6 @@ We conducted extensive experiments, the results of which demonstrate that TargAD
 Python version 3.9.7
 
 Create suitable conda environment:
-
 ```
 conda env create -f environment.yml
 ```
