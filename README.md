@@ -12,6 +12,15 @@ We conducted extensive experiments, the results of which demonstrate that TargAD
 * TargAD.py is all the codes of the TargAD model.
 * The data folder is used to store experimental data.
 
+## Running environment
+Python version 3.9.7
+
+Create suitable conda environment:
+
+```
+conda env create -f environment.yml
+```
+
 ## Full paper source:
 https://ieeexplore.ieee.org/document/10597675
 
